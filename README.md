@@ -1,3 +1,3 @@
 # NICS-report
 
-** Work in Progress.**
+**Work in Progress**
