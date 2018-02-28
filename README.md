@@ -1,4 +1,4 @@
-## Investigationg Data on National Instant Criminal Check System
+## Investigating Data on National Instant Criminal Check System
 
 The National Instant Criminal Check System (NICS) is the official system used by the FBI to keep under check suspicious criminal activities. The NICS was invented as a successor to the Brady Handgun Act of 1992 and officially came into existence in 1998. While the law acted as prevention tool to keep arms trade and transactions under check, the NICS was the tool through which law enforcement agencies could pin-point any suspicious activity by constantly monitoring weapon transaction in all of the NICS registered shops. In this manner, these two tools were meant to act as a gun limiting toolset with NICS playing an important part in it by additionally providing law enforcement the tools to track anti-social elements.
 
